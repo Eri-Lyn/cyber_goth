@@ -15,3 +15,16 @@ ASSIGNMENT 1 -- INTRO
 ####################################
 ######### ANDREW'S CODE ############
 ####################################
+
+name = input("Hello User, what is your name? ")
+print("Welcome", name)
+
+def assignment():
+   dna = "tcgcgatcgc"
+   dna2 = "tggggcatgc"
+
+   recombination = dna + dna2
+   lst = list(recombination)
+   print(lst)
+
+assignment()
