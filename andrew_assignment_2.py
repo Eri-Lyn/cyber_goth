@@ -39,7 +39,6 @@ cat1 = Animal("cat","black","meow","mammal")
 
 #animalList = ['cow','dog','rooster','horse','cat']
 
-
 animalList = []
 # animalList.append(Animal("cow","brown","moo","mammal"))
 # animalList.append(Animal("dog","black","bark","mammal"))
