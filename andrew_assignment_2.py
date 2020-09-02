@@ -68,4 +68,3 @@ for animal in animalList:
       #print("%s: \"%s\" \"%s\" \"%s\"" % (animal.name, animal.color, animal.sound, animal.type))
       print(animal.name + ' says ' + animal.sound)
 
-
